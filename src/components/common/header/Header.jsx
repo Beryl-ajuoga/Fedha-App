@@ -19,7 +19,7 @@ const Header = () => {
               <Link to='/courses'>About</Link>
             </li>
             <li>
-              <Link to='/about'>Contact</Link>
+              <Link to='/about'>Contact us</Link>
             </li>
           </ul>
           <div className='start'>
