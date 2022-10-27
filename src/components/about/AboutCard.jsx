@@ -13,7 +13,7 @@ const AboutCard = () => {
             <img src='./images/about.webp' alt='' />
           </div>
           <div className='right row'>
-            <Heading subtitle='Your Financial Patner' title='Benefits of using Fedha' />
+            <Heading subtitle='Your Financial Patner' title='How to use Fedha' />
             <div className='items'>
               {homeAbout.map((val) => {
                 return (

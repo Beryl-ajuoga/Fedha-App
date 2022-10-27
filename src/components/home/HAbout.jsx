@@ -1,2 +1,2 @@
 
-import "../allcourses/courses.css"
+// import "../allcourses/courses.css"
